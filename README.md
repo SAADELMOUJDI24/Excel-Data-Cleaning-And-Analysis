@@ -1,5 +1,5 @@
-# esercizi-excel-avanzato-data-analyst
-Questo progetto si concentra sull'uso di Excel per la pulizia e l'analisi di dati provenienti da diverse fonti. Il file di lavoro contiene vari fogli di calcolo con informazioni miste che necessitano di essere separate, pulite e analizzate
+# esercizi-excel-avanzato-data-analyst(10 gennaio 2025)
+Questo progetto si concentra sull'uso di Excel per la pulizia e l'analisi di dati provenienti da diverse fonti. Il file di lavoro contiene vari fogli di calcolo con informazioni miste che necessitano di essere separate, pulite e analizzate.
 # Attività Svolte
 1) Pulizia del Foglio "ELENCOSTRUTTURE":
 Separazione degli indirizzi internet e indirizzi e-mail con la funzionalità "Aggiungi due colonne condizionali".
