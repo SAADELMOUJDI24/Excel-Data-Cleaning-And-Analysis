@@ -3,7 +3,7 @@ Questo progetto si concentra sull’uso di Excel per la pulizia e l’analisi de
 che necessitavano di essere separate, pulite e analizzate.
 # Attività Svolte
 
-1- Foglio "ELENCOSTRUTTURE" – Pulizia dati
+# 1- Foglio "ELENCOSTRUTTURE" – Pulizia dati
 
 -Separazione di indirizzi email e URL tramite colonne condizionali.
 
@@ -11,17 +11,17 @@ che necessitavano di essere separate, pulite e analizzate.
 
 -Identificazione e numerazione dei duplicati tramite la formula CONTA.SE.
 
-2- Foglio "RICERCA" – Applicazione formule
+# 2- Foglio "RICERCA" – Applicazione formule
 
 -Applicazione delle formule richieste per completare l’esercizio, tra cui CERCA.X e CONTA.VALORE2.
 
-3- Foglio "PIVOT" – Creazione tabella pivot
+# 3- Foglio "PIVOT" – Creazione tabella pivot
 
 -Creazione di una tabella pivot con la colonna "Categoria" come righe e "Denominazione" come valori.
 
 -Aggiunta di un filtro per la città per permettere un’analisi dinamica dei dati.
 
-4- Power Query e Power Pivot
+# 4- Power Query e Power Pivot
 
 -Caricamento e pulizia dei dati dal file MODELLO DATI.xlsx tramite Power Query.
 
